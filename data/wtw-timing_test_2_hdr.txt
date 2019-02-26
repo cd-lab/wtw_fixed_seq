@@ -1,0 +1,8 @@
+ID: test
+cbal: 1
+bk1 distrib: logspace_1.75_32
+bk2 distrib: unif16
+bk1 trial function: showTrials
+bk2 trial function: showTrials
+randSeed: 216687.0903999999864027
+sessionTime: 2019     2    18    13    58    56
